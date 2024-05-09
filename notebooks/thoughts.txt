@@ -1,0 +1,8 @@
+Break model into parts.
+    Origin vs Dest
+    Year
+    Carriers, maybe WN v All
+Get averages from data user wouldn't know based on params
+    Departure and arrival delays
+Map
+    See flights coming in and out of MCI

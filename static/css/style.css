@@ -1,0 +1,17 @@
+h3 {
+    padding: 10px 25px;
+    width: 100%;
+    background: #1abc9c;
+    text-align: center;
+}
+input{
+    width: 50px;
+    text-align: right; 
+}
+select{
+    width: fit-content;
+    text-align: left; 
+}
+button {
+    background: #6b9187;
+}
