@@ -1,12 +1,62 @@
-h3 {
-    padding: 10px 25px;
-    width: 100%;
-    background: #1abc9c;
-    text-align: center;
+body{
+    background: #292929;
+    margin: auto;
+    
 }
-input{
-    width: 50px;
-    text-align: right; 
+h3 {
+    background: #1abc9c;
+    text-align: left;
+    margin: auto;
+    padding: 2%;
+}
+h1 {
+    background: #bc2d1a;
+    text-align: left;
+    margin: auto;
+    padding: 2%;
+}
+h5 {
+
+    text-align: left;
+    margin: auto;
+    padding: 2%;
+    color:#1abc9c
+}
+p {
+    background: #1abc9c;
+    text-align: left;
+    margin: auto;
+    padding: 2%;
+}
+ul{
+    background: #1abc9c;
+    
+}
+li{
+    background: #1abc9c;
+    
+}
+hr{
+    border-top: 1px solid #bc2d1a;
+}
+.well{
+    border-color:#292929;
+    background: #292929;
+    margin:auto;
+    align-content: center;
+    padding:2%;
+}
+.tabwell{
+    margin:auto;
+    padding:2%;
+}
+.tableauPlaceholder{
+    margin: auto;
+    width: fit-content;
+    background: #44e2ca;
+}
+.jumbotron{
+    background: #292929;
 }
 select{
     width: fit-content;
@@ -14,4 +64,6 @@ select{
 }
 button {
     background: #6b9187;
+    padding: 2%;
+
 }
